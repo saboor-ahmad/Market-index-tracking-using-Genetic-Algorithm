@@ -1,0 +1,1 @@
+https://finance.yahoo.com/quote/%5EFTSE%3FP%3DFTSE/history/?period1=1136314800&period2=1512330317&interval=1d&filter=history&frequency=1d

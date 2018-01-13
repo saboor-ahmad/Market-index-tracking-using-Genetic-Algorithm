@@ -1,0 +1,8 @@
+Issue that might arise;
+
+-> FTSE-100 index data is fetched from Yahoo Finance
+   (data for 11Y i.e. 2017-2006)
+-> Data for various other stocks is gathered from Quandl
+   (data for 2Y i.e. 2017-2016)
+
+PROBLEM: there is a mismatch of number of records from both sources, in the records for year 2017
